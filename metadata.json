@@ -1,0 +1,5 @@
+{
+  "name": "La Palabra Negra",
+  "description": "A high-stakes word association game where you must guess a word fitting a category without matching the computer's secret 'Black Word'.",
+  "requestFramePermissions": []
+}
